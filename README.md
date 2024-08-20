@@ -1,4 +1,4 @@
 # Terraform
 
-Some terrraform configurations I created for testing purposes
+Some Terraform configurations I created for testing purposes
 
